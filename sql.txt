@@ -1,0 +1,10 @@
+SqlDataAdapter(Sqlcommand selectCommand): Khởi tạo một instance mới của class SqlDataAdapter với SqlCommand được chỉ định.
+- cầu nối giữa DataSet và nguồn dữ liệu (Cở sở dữ liệu SQL Server) để truy xuất dữ liệu
+- sử dụng sqldatadapter để chuyển đổi dữ liệu từ lệnh cmd trả về
+
+
+
+
+
+
+
